@@ -25,7 +25,7 @@
 
   
 - 🔭 I’m currently working on Tech degree on IT
-- 🌱 I’m currently learning HTML and CSS, besides logic using Portugol Studio
+- 🌱 I’m currently learning HTML and CSS
 - 💬 Ask me about little known countries
 - 😄 Pronouns: he/him
 
